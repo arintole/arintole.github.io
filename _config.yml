@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            'ARINTO HADI WIHARYO'
-tagline:          'just try'
+tagline:          'My Name'
 description:      'awesome as always'
 url:              http://arintole.github.io/
 baseurl:          /
@@ -27,3 +27,4 @@ github:
 socialmedia: 
   twitter:        https://twitter.com/arintole
   linkedin:       https://www.linkedin.com/in/arintohadiwiharyo
+  instagram:      https://instagram.com/arintole/
