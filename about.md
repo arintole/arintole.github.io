@@ -15,7 +15,7 @@ I love cooking, I spend quite a lot of time thinking and learning what I am goin
 
 * Name: Arinto Hadi Wiharyo
 * Nationality: Indonesian.
-* Born: 04.02.1990, Jakarta Indonesia.
+* Born: February 4th, 1990. Jakarta Indonesia.
 * Education: 
  - Bachelor's of Business Administration. Haaga-Helia University of Applied Sciences, Business Information Technology (2010-2014).
  - IB Diploma. Joensuun Lyseon Lukio, IB World School (2008-2010)
@@ -30,6 +30,7 @@ I love cooking, I spend quite a lot of time thinking and learning what I am goin
  - August 2013-Present Sports Division, Indonesialaisten Opiskelijoiden Yhdistys – PPI Finland ry
  - August 2009-May 2010 Coach Assistant, Kataja Basket club, Joensuu
 * Language Skills: Indonesian English and Finnish
+* email: arintohadi.wiharyo@gmail.com
 
 
 Thanks for visiting!
