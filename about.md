@@ -3,14 +3,6 @@ layout: page
 title: About Me
 ---
 
-<p class="message">
-Hei, I am a 25 years old boy (I would say) who have passion for cooking, technology, photography, games and SPORTS.
-Yeah I am addicted to sports, if I can marry sports I would but I wouldn’t mind marrying a beautiful woman of my dream either.
-I love cooking, I spend quite a lot of time thinking and learning what I am going to cook and of course I enjoy eating (who doesn’t?) So it makes a win-win situation for me.
-  Recently I started to have big interest in photography, I think it’s because some of my friends are infecting me with amazing-photos addiction. It must be a chronic addiction liking and trying to get the likes from others!!!
-</p>
-
-****
 <h2>Personal Information</h2>
 
 * Name: Arinto Hadi Wiharyo
@@ -18,7 +10,7 @@ I love cooking, I spend quite a lot of time thinking and learning what I am goin
 * Born: February 4th, 1990. Jakarta Indonesia.
 * Education: 
  - Bachelor's of Business Administration. Haaga-Helia University of Applied Sciences, Business Information Technology (2010-2014).
- - IB Diploma. Joensuun Lyseon Lukio, IB World School (2008-2010)
+ - International Baccalaureate Diploma. Joensuun Lyseon Lukio, IB World School (2008-2010)
  - High School Diploma. SMA Negeri 1 Depok. (2005-2008)
 * Work experience:
  - August 2013-January 2014 Product Manager, DS Digital Standards Finland, Turku and Helsinki
@@ -32,5 +24,17 @@ I love cooking, I spend quite a lot of time thinking and learning what I am goin
 * Language Skills: Indonesian English and Finnish
 * email: arintohadi.wiharyo@gmail.com
 
+****
 
-Thanks for visiting!
+<p class="message">
+Hei, I am a 25 years old boy (I would say) who have passion for cooking, technology, photography, games and SPORTS.
+Yeah I am addicted to sports, if I can marry sports I would but I wouldn’t mind marrying a beautiful woman of my dream either.
+I love cooking, I spend quite a lot of time thinking and learning what I am going to cook and of course I enjoy eating (who doesn’t?) So it makes a win-win situation for me.
+  Recently I started to have big interest in photography, I think it’s because some of my friends are infecting me with amazing-photos addiction. It must be a chronic addiction liking and trying to get the likes from others!!!
+</p>
+
+
+
+
+
+####Thanks for visiting!
