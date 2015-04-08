@@ -3,32 +3,18 @@ layout: page
 title: About Me
 ---
 
-<h2>Personal Information</h2>
 
-* Name: Arinto Hadi Wiharyo
-* Nationality: Indonesian.
-* Born: February 4th, 1990. Jakarta Indonesia.
-* Education: 
- - Bachelor's of Business Administration. Haaga-Helia University of Applied Sciences, Business Information Technology (2010-2014).
- - International Baccalaureate Diploma. Joensuun Lyseon Lukio, IB World School (2008-2010)
- - High School Diploma. SMA Negeri 1 Depok. (2005-2008)
-* Work experience:
- - August 2013-January 2014 Product Manager, DS Digital Standards Finland, Turku and Helsinki
- - April 2011-July 2013 Bar and Restaurant Services and Support, Active People Oy, Helsinki
- - September 2012-May 2013 IT trainee, Check Finland Oy, Helsinki
- - November 2011-September 2012 Software Localization and Testing, Lionbridge Testing Services Oy, Tampere
- - June 2010-August 2010 Logs Picking Assistant, HP-Uitto Oy Savonlinna, Joensuu, Imatra and Lappeenranta
-* Organization experience:
- - August 2013-Present Sports Division, Indonesialaisten Opiskelijoiden Yhdistys – PPI Finland ry
- - August 2009-May 2010 Coach Assistant, Kataja Basket club, Joensuu
-* Language Skills: Indonesian English and Finnish
-* email: arintohadi.wiharyo@gmail.com
+<p1>
+Hei, I am Arinto a 25 years old Bachelor's of Business Administration majoring in Business Information Technology recent graduate from Haaga-Helia UAS, Finland who have passion for information technology, cooking, photography, video-games and sports.
+</p1>
 
-****
+<p2>
+I am so much into data analytics and reporting especially Business Intelligence, database and Big Data. If you want to know more about my interests and my skills feel free to check my [LinkedIn profile](https://www.linkedin.com/in/arintohadiwiharyo).
 
-<p>
-Hei, I am a 25 years old BBA recent graduate in Finland who have passion for cooking, technology, photography, games and SPORTS. Yeah I am addicted to sports, if I can marry sports I would but I wouldn’t mind marrying a beautiful woman of my dream either. I love cooking, I spend quite a lot of time thinking and learning what I am going to cook and of course I enjoy eating (who doesn’t?) So it makes a win-win situation for me. Recently I started to have big interest in photography, I think it’s because some of my friends are infecting me with amazing-photos addiction. It must be a chronic addiction liking and trying to get the likes from others!!!
-</p>
+Yeah I am addicted to sports, if I can marry sports I would but I wouldn’t mind marrying a beautiful woman of my dream either. I love cooking, I spend quite a lot of time thinking and learning what I am going to cook and of course I enjoy eating (who doesn’t?) So it makes a win-win situation for me. Recently I started taking amateur photos and **NO** I would never call myself a photographer **EVER**. I am just another guy with an ok camera.
+
+If you want you can check my [twitter](http://twitter.com/arintole) and my [instagram](https://instagram.com/arintole/)
+</p2>
 
 <p class="message">
 I realize that this blog/website is far from perfect, therefore I am waiting for your comments, suggestions, etc. Bring it on and comment below!
