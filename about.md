@@ -26,8 +26,8 @@ title: About Me
 
 ****
 
-<p class="message">
-Hei, I am a 25 years old boy (I would say) who have passion for cooking, technology, photography, games and SPORTS. Yeah I am addicted to sports, if I can marry sports I would but I wouldn’t mind marrying a beautiful woman of my dream either. I love cooking, I spend quite a lot of time thinking and learning what I am going to cook and of course I enjoy eating (who doesn’t?) So it makes a win-win situation for me. Recently I started to have big interest in photography, I think it’s because some of my friends are infecting me with amazing-photos addiction. It must be a chronic addiction liking and trying to get the likes from others!!!
+<p>
+Hei, I am a 25 years old BBA recent graduate in Finland who have passion for cooking, technology, photography, games and SPORTS. Yeah I am addicted to sports, if I can marry sports I would but I wouldn’t mind marrying a beautiful woman of my dream either. I love cooking, I spend quite a lot of time thinking and learning what I am going to cook and of course I enjoy eating (who doesn’t?) So it makes a win-win situation for me. Recently I started to have big interest in photography, I think it’s because some of my friends are infecting me with amazing-photos addiction. It must be a chronic addiction liking and trying to get the likes from others!!!
 </p>
 
 <p class="message">
