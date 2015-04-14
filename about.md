@@ -11,9 +11,9 @@ Hei, I am Arinto a 25 years old Bachelor's of Business Administration majoring i
 <p2>
 I am so much into data analytics and reporting especially Business Intelligence, database and Big Data. If you want to know more about my interests and my skills feel free to check my [LinkedIn profile](https://www.linkedin.com/in/arintohadiwiharyo).
 
-Yeah I am addicted to sports, if I can marry sports I would but I wouldn’t mind marrying a beautiful woman of my dream either. I love cooking, I spend quite a lot of time thinking and learning what I am going to cook and of course I enjoy eating (who doesn’t?) So it makes a win-win situation for me. Recently I started taking amateur photos and **NO** I would never call myself a photographer **EVER**. I am just another guy with an ok camera.
+Yeah I am addicted to sports, if I could marry sports I would but I wouldn’t mind marrying a beautiful woman of my dream either. I love cooking, I spend quite a lot of time thinking and learning what I am going to cook and of course I enjoy eating (who doesn’t?) So it makes a win-win situation for me. Recently I started taking amateur photos and **NO** I would never call myself a photographer **EVER**. I am just another guy with an ok camera.
 
-If you want you can check my [twitter](http://twitter.com/arintole) and my [instagram](https://instagram.com/arintole/)
+If you want you can check my [twitter](http://twitter.com/arintole) and my [instagram](https://instagram.com/arintole/).
 </p2>
 
 <p class="message">
