@@ -2,38 +2,56 @@
 layout: page
 title: About Me
 ---
-
-
 <p1>
-Hei, I am Arinto a 25 years old Bachelor's of Business Administration majoring in Business Information Technology recent graduate from Haaga-Helia UAS, Finland who have passion for information technology, cooking, photography, video-games and sports.
+Halo!<br>
+I am Arinto Wiharyo, an Indonesian by passport and a Savolainen by heart.<br>
+I work in the sweetspot between Cloud and Analytics.Currently I am working for CGI Advanced Analytics Solutions as a Data Engineer and a Scrum Master.<br>
+I spend my free time doing sports, cooking, reading and sitting in my couch (just kidding).<br>
 </p1>
 
-<p2>
-I am so much into data analytics and reporting especially Business Intelligence, database and Big Data. If you want to know more about my interests and my skills feel free to check my [LinkedIn profile](https://www.linkedin.com/in/arintohadiwiharyo).
+<h2>Experience</h2>
+<p>I have three years of experience working with Business Intelligence and Data Engineering, both on premise and in the cloud.
+Three years of experience working with Azure and six months of experience working with AWS.
+In addition, I have been working as a Scrum Master for about about a year now.</p>
 
-Yeah I am addicted to sports, if I could marry sports I would but I wouldn’t mind marrying a beautiful woman of my dream either. I love cooking, I spend quite a lot of time thinking and learning what I am going to cook and of course I enjoy eating (who doesn’t?) So it makes a win-win situation for me. Recently I started taking amateur photos and **NO** I would never call myself a photographer **EVER**. I am just another guy with an ok camera.
+<h2>Industry Knowledge</h2>
 
-If you want you can check my [twitter](http://twitter.com/arintole) and my [instagram](https://instagram.com/arintole/).
-</p2>
+<ul>
+    <li>Telecommunication</li>
+    <li>Financial Sector</li>
+    <li>Product Management</li>
+    <li>Logistics</li>
+</ul>
 
-<p class="message">
-I realize that this blog/website is far from perfect, therefore I am waiting for your comments, suggestions, etc. Bring it on and comment below!
-</p>
+<h2>
+My work
+</h2>
 
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'arintole';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<p2>**CGI Advanced Analytics Solutions** <br>
+Data Engineer and Scrum Master<br>
+December 2017 - Present
+</p2><br>
 
+<p3>**Bigdatapump (Acquired by CGI)**<br>
+Data Analyst<br>
+January 2016 - Present
+</p3>
+
+<p4>**Teampac** <br>
+ERP and Report Developer<br>
+June 2015 - December 2015
+</p4>
+
+<p5>**Lionbridge** <br>
+Software Tester (part time)<br>
+November 2011 - October 2012
+</p5>
+
+<p3>
+Follow Me on:
+[LinkedIn](https://www.linkedin.com/in/arintohadiwiharyo)
+[twitter](http://twitter.com/arintole)
+</p3>
 
 
 ####Thanks for visiting!
